@@ -1,18 +1,18 @@
 # Booking reviews. Прогнозирование рейтинга отеля на Booking
 ## Оглавление
-[1. Описание проекта](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Описание-проекта)
+[1. Описание проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
 
-[2. Какой кейс решаем](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
 
-[3. Краткая информация о данных](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Описание-проекта)
+[3. Краткая информация о данных](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Описание-проекта)
 
-[4. Этапы проекта](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Этапы-проекта)
+[4. Этапы проекта](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Этапы-проекта)
 
-[5. Результат](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Результаты)
+[5. Результат](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Результаты)
 ### Описание проекта
 Представьте, что вы работаете дата-сайентистом в компании Booking. Одна из проблем компании — это нечестные отели, которые накручивают себе рейтинг. Одним из способов обнаружения таких отелей является построение модели, которая предсказывает рейтинг отеля. Если предсказания модели сильно отличаются от фактического результата, то, возможно, отель ведёт себя нечестно, и его стоит проверить.
 
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Оглавление )
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
 
 ### Какой кейс решаем
 1. создаем свою первую модель, основанную на алгоритмах машинного обучения;
@@ -71,5 +71,5 @@
 ### Результат:
 После обработки данных модель отрабатывает с точностью MAPE = 0.1274
 
-[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/Project_2_%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
-:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project-2_HeadHunter/blob/main/README.md#Оглавление)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/project-3-hotels-eda-feature-engineering.ipynb)
+:arrow_up:[к оглавлению](https://github.com/dariazvonareva/Project_3_EDA_Booking_reviews/blob/main/README.md#Оглавление)
